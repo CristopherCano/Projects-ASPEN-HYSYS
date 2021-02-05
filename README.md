@@ -11,7 +11,7 @@ Process simulation has become very popular in the last few years. Powerful proce
 
 The modern process simulation packages (Hysys, Aspen,Chemcad and others) can be used to model steam generation cycles in all of its configurations, the process of adsorption desorption of ethylene oxide. They can also be used for NH3 synthesis circuit.
 
-The design engineer should use these models with some caution. It was mentioned earlier that hydrocarbon + methanol systems are difficult to model and the same is true for glycol + hydrocarbon systems. When simulating these processes the engineer should select a model suitable for these systems.
+The design engineer should use these models with some caution. It was mentioned earlier that hydrocarbon + methanol systems are difficult to model and the same is true for glycol + hydrocarbon systems and others. When simulating these processes the engineer should select a model suitable for these systems.
 
 
 ### Content
