@@ -1,4 +1,4 @@
-# Balance de energía y eficiencia de un horno
+# Proyecto 1: Balance de energía y eficiencia de un horno
 
 ### Especificaciones
 
